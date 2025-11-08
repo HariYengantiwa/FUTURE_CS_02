@@ -13,9 +13,7 @@ It covers log ingestion, searching, alert triage, visualization, and incident re
 
 ## Contents
 - `SOC_Final_Report.docx` — Full project report and findings.  
-- `splunk.mp4` — Demo video (10:08) showing the steps and screenshots.  
 - `screenshots/` — Screenshots used in the report (1.png ... 11.png).  
-- `scripts/voiceover_script.txt` — Voice-over script for the video.  
 - `.gitattributes` — Git LFS settings (if used).  
 - `.gitignore` — Ignored files.
 
